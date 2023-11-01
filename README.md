@@ -1,2 +1,16 @@
-# TCP_labsJava
- Exercícios de Java
+# Laboratórios de TCP em Java
+
+Conjunto de exercícios de programação orientada à objetos para a disciplina de Técnicas e Construção de Programas
+
+## Exercício e conceitos abordados
+
+* [LAB-01](https://github.com/biasoviero/TCP_labsJava/tree/main/lab01)
+  * Criação de uma classe
+  * Definição de atributos e métodos
+  * Private X Public
+  * Métodos getters e setters
+
+* [LAB-02](https://github.com/biasoviero/TCP_labsJava/tree/main/lab02)
+   * Atributos e métodos static
+   * Definição de constantes
+   * Utilizando ArrayLists
