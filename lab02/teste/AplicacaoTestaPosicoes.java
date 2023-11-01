@@ -1,8 +1,8 @@
-package TCP_labsJava.lab02.src.teste;
+package lab02.teste;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import TCP_labsJava.lab02.src.posicoes.PosicaoMapa4x4;
+import lab02.posicoes.PosicaoMapa4x4;
 
 public class AplicacaoTestaPosicoes {
     public static final int MAP_WIDTH = 4;

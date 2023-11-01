@@ -1,4 +1,4 @@
-package TCP_labsJava.lab02.src.posicoes;
+package lab02.posicoes;
 
 public class PosicaoMapa4x4 {
     private int x;

@@ -1,4 +1,4 @@
-package TCP_labsJava.lab01;
+package lab01;
 
 public class mainProgram{
     public static void main(String[] args){
