@@ -14,3 +14,8 @@ Conjunto de exercícios de programação orientada à objetos para a disciplina 
    * Atributos e métodos static
    * Definição de constantes
    * Utilizando ArrayLists
+
+* [LAB-03](https://github.com/biasoviero/TCP_labsJava/tree/main/lab03)
+   * Divisão das classes em pacotes
+   * Uso de diagramas de classes
+ <img src="https://github.com/biasoviero/TCP_labsJava/blob/main/lab03/universidade.png">
