@@ -19,3 +19,9 @@ Conjunto de exercícios de programação orientada à objetos para a disciplina 
    * Divisão das classes em pacotes
    * Uso de diagramas de classes
  <img src="https://github.com/biasoviero/TCP_labsJava/blob/main/lab03/universidade.png">
+
+ * [LAB-04](https://github.com/biasoviero/TCP_labsJava/tree/main/lab04)
+   * Interface
+   * Classes abstratas
+   * Polimorfismo
+   * Herança
